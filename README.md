@@ -18,5 +18,5 @@
 
 ### Big-O gösterimini yazınız.
 
--Her seferinde yarıya iner 2^x = n  =>logn
--n tane aşama var  O(nlogn)
+- Her seferinde yarıya iner 2^x = n  =>logn
+- n tane aşama var  O(nlogn)
